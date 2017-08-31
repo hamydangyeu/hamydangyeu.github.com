@@ -1,2 +1,2 @@
-# bentokun.github.io
-Bloggg
+# hamydangyeu.github.io
+Official fanpage goes open source!!
