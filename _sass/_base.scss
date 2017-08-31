@@ -1,0 +1,19 @@
+$content-width: 800px;
+$main: #99B898;
+$font-style: 'Lato', sans-serif;
+$font-color: #123456;
+$link-color: #0045FF;
+$link-hover-color: $main;
+$heading-font: 'Muli', sans-serif;
+$heading-font-color: #425469;
+$light: #E7EDF4;
+$header: #82F387;
+$body: #66D4E0;
+
+*,
+*::before,
+*::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
